@@ -1,4 +1,4 @@
-name: torbid
+name: turbid
 dependencies:
   - ipykernel
   - jupyterlab
