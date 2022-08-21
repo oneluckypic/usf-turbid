@@ -5,6 +5,8 @@ dependencies:
   - matplotlib
   - numpy
   - opencv
+  - pandas
   - pillow
   - python<3.10
   - rasterio
+  - scikit-image
